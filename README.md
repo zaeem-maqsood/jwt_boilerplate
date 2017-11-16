@@ -1,4 +1,4 @@
-# jwt_boilerplate
+# JWT boilerplate
 Django REST Framework basic authentication boilerplate using JSON Web Token
 
 Virutal Env is enabled 
